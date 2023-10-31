@@ -30,7 +30,7 @@ namespace Lab7
         {
             //Pentru plata prin intermediul POS - ului
 
-            bool cardClasic = false;
+            bool cardClasic = true;
             bool carduriContactless = false;
             bool telefoaneMobileContactless = false;
 
